@@ -3,7 +3,7 @@ A collection of course-based projects developed during my Computer Science degre
 
 ## Projects
 
-- [Boggle Game](./BoggleGame) – Word game with GUI, audio, and custom visuals (Python + Tkinter)
+- [Boggle Game](./BoogleGame) – Word game with GUI, audio, and custom visuals (Python + Tkinter)
 - [Snake Game](./SnakeGame) – Classic Snake game with OOP structure and scoring logic
 - [Nand2Tetris](./Nand2Tetris) – Hardware components in HDL including ALU, RAM, and CPU
 
